@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "type": "donations",
+      "id": "blm",
+      "attributes": {
+        "name": "Black Lives Matter",
+        "link": "https://secure.actblue.com/donate/ms_blm_homepage_2019"
+      }
+    },
+    {
+      "type": "donations",
+      "id": "the-bail-project",
+      "attributes": {
+        "name": "The Bil Project, Inc",
+        "link": "https://secure.givelively.org/donate/the-bail-project"
+      }
+    },
+    {
+      "type": "donations",
+      "id": "communities-united-against-police-brutality",
+      "attributes": {
+        "name": "Communities United Against Police Brutality",
+        "link": "https://www.cuapb.org/"
+      }
+    },
+    {
+      "type": "donations",
+      "id": "showing-up-for-racial-justice",
+      "attributes": {
+        "name": "Showing Up For Racial Justice",
+        "link": "https://www.showingupforracialjustice.org/"
+      }
+    },
+    {
+      "type": "donations",
+      "id": "bmma",
+      "attributes": {
+        "name": "Black Mamas Matter Alliance",
+        "link": "https://blackmamasmatter.org/"
+      }
+    },
+    {
+      "type": "donations",
+      "id": "black-girls-run",
+      "attributes": {
+        "name": "Black Girls Run!",
+        "link": "https://raceroster.com/events/2020/31249/black-girls-run-global-running-day-virtual-challenge/fundraising-organization/23594"
+      }
+    },
+    {
+      "type": "donations",
+      "id": "black-girls-code",
+      "attributes": {
+        "name": "Black Girls Code",
+        "link": "https://www.blackgirlscode.com/"
+      }
+    }
+  ]
+}

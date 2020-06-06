@@ -1,0 +1,42 @@
+@import "ember-bootstrap/bootstrap";
+
+// Required
+@import "ember-bootstrap/functions";
+@import "ember-bootstrap/variables";
+@import "ember-bootstrap/mixins";
+
+@import "./nav-bar";
+@import "./content-left";
+@import "./donation";
+
+a {
+  color: white;
+}
+
+.body {
+  background-color:black;
+}
+
+.home {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  height: 770px;
+
+  background: url("../assets/images/main-1.jpg");
+  background-size: 100% 100%;
+
+  &__title {
+    position: relative;
+    top: 50%;
+    left: 50%;
+    width: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px;
+    text-align: center;
+    background-color: black;
+    color: whitesmoke;
+    font-size: 250%;
+  }
+}

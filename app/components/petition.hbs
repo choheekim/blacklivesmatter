@@ -1,0 +1,12 @@
+<div class="main-content-left">
+  <h1 class="main-content-left__title"> SIGN PETITIONS</h1>
+  <ul class="main-content-lefts-list">
+  {{#each @petitions as |petition| }}
+    {{#if petition.link}}
+      <li class="main-content-lefts-list__item"><a href={{petition.link}}>{{petition.title}}</a></li>
+    {{else}}
+      <li class="main-content-lefts-list__item">{{petition.title}}</li>
+    {{/if}}
+  {{/each}}
+  </ul>
+</div>

@@ -1,0 +1,8 @@
+<div class="donation">
+    <h1 class="donation__title">DONATE</h1>
+    <ul class="donation__list">
+    {{#each @donations as |donation| }}
+        <li class="donation-list__item"><a href={{donation.link}}>{{donation.name}}</a></li>
+    {{/each}}
+    </ul>
+</div>

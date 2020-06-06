@@ -1,0 +1,31 @@
+.donation {
+  padding: 5%;
+  margin-right: 10%;
+  text-align: right;
+
+  &__title {
+    color: white;
+    font-weight: bolder;
+  }
+
+  &__list {
+    position: relative;
+    padding: 0;
+    list-style: none;
+    color:white;
+    font-family: Verdana, Geneva, sans-serif;
+    font-weight: 200;
+
+    &__item {
+      text-align: right;
+
+      padding-bottom: 4px;
+    }
+
+    :hover {
+      color: white;
+      text-decoration: none;
+    }
+  }
+
+}

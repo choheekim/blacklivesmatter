@@ -1,0 +1,30 @@
+.navbar {
+  background-color: black;
+  width: 100%;
+  position: fixed;
+  top: 0;
+
+  &__item {
+    margin-right: 35px;
+    list-style: none;
+    color: whitesmoke;
+  }
+
+  a {
+    color: whitesmoke;
+  }
+}
+
+.navbar-toggler {
+  margin-right: 1em;
+}
+
+.navbar-toggler-icon {
+  width: 1em;
+  height: 1em;
+}
+
+.navbar-header {
+  margin-left: 10%;
+  margin-right: 5%;
+}

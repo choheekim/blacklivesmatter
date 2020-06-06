@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   let ENV = {
-    modulePrefix: 'blakc-lives-matter',
+    modulePrefix: 'black-lives-matter',
     environment,
     rootURL: '/',
     locationType: 'auto',

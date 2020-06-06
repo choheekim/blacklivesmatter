@@ -1,0 +1,26 @@
+<BsNavbar
+  class="navbar"
+  @type="dark"
+  @collapsed={{true}}
+  @backgroundColor="black" as |navbar|>
+   <div class="navbar-header">
+    {{navbar.toggle}}
+    <LinkTo @route="index" class="navbar-brand">Black Lives Matter</LinkTo>
+  </div>
+  <navbar.content>
+    <navbar.nav as |nav|>
+      <nav.item class="navbar__item">
+        <a href="#home">Home</a>
+      </nav.item>
+      <nav.item class="navbar__item">
+        <a href="#petition">Petitions</a>
+      </nav.item>
+      <nav.item class="navbar__item">
+        <a href="#donation">Donation</a>
+      </nav.item>
+      <nav.item class="navbar__item">
+        <a href="#films">Recourses to Watch</a>
+      </nav.item>
+    </navbar.nav>
+  </navbar.content>
+</BsNavbar>

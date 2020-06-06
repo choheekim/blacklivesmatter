@@ -1,0 +1,13 @@
+<div class="main-content-left">
+  <h1 class="main-content-left__title">Flims/Videos</h1>
+  <h3>Click to watch videos available on Youtube</h3>
+  <ul class="main-content-lefts-list">
+  {{#each @films as |film| }}
+    {{#if film.video}}
+      <li class="main-content-lefts-list__youtube"><a href={{film.video}}>{{film.title}} - Available on {{film.available}} </a> </li>
+    {{else}}
+    <li>{{film.title}} - Available on {{film.available}}</li>
+    {{/if}}
+  {{/each}}
+  </ul>
+</div>

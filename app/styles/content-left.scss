@@ -1,0 +1,30 @@
+.main-content-left {
+  padding: 5%;
+  margin-left: 6%;
+  color: white;
+
+  &__title {
+    font-weight: bolder;
+  }
+}
+
+.main-content-lefts-list {
+  padding: 0;
+  list-style: none;
+  color:white;
+  font-family: Verdana, Geneva, sans-serif;
+  font-weight: 200;
+
+  &__item {
+    padding-bottom: 4px;
+  }
+
+  &__youtube {
+    font-style: italic;;
+  }
+
+  :hover {
+    color: white;
+    text-decoration: none;
+  }
+}

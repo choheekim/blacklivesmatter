@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "type": "films",
+      "id": "13th",
+      "attributes": {
+        "title": "13th",
+        "available": "Netflix, Youtube",
+        "link": "https://g.co/kgs/7WHpYA",
+        "video": "https://www.youtube.com/watch?v=krfcq5pF8u8"
+      }
+    },
+    {
+      "type": "films",
+      "id": "explained",
+      "attributes": {
+        "title": "Explained: The Racial Wealth Gap",
+        "available": "Netflix, Youtube",
+        "video": "https://www.youtube.com/watch?v=Mqrhn8khGLMt"
+      }
+    },
+    {
+      "type": "films",
+      "id": "hasan",
+      "attributes": {
+        "title": "We Cannot Stay Silent About George Floyd",
+        "available": "Netflix, Youtube",
+        "video": "https://www.youtube.com/watch?v=i_FE78X-qdY"
+      }
+    },
+    {
+      "type": "films",
+      "id": "dwp",
+      "attributes": {
+        "title": "Dear White People",
+        "available": "Netflix",
+        "link": "https://g.co/kgs/saz72u"
+      }
+    },
+    {
+      "type": "films",
+      "id": "when-they-see-us",
+      "attributes": {
+        "title": "When They See Us",
+        "available": "Netflix",
+        "link": "https://g.co/kgs/PPm24Z"
+      }
+    },
+    {
+      "type": "films",
+      "id": "kalief-browder",
+      "attributes": {
+        "title": "Time: The Kalief Browder Story",
+        "available": "Netflix",
+        "link": "https://g.co/kgs/Q66bCn"
+      }
+    }
+  ]
+}

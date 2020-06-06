@@ -1,0 +1,74 @@
+{
+  "data": [
+    {
+      "type": "petitions",
+      "id": "defund-the-police",
+      "attributes": {
+        "title": "BLM #DefundThePolice Petition",
+        "link": "https://blacklivesmatter.com/defundthepolice/"
+      }
+    },
+    {
+      "type": "petitions",
+      "id": "mandatory-life-sentence",
+      "attributes": {
+        "title": "Mandatory Life Sentence for Police Brutality – Change.org",
+        "link": "https://www.change.org/p/department-of-justice-mandatory-life-sentence-for-police-brutality/"
+      }
+    },
+    {
+      "type": "petitions",
+      "id": "hands-up-act",
+      "attributes": {
+        "title": "Hand’s Up Act to punish police for shooting unarmed citizens",
+        "link": "https://www.change.org/p/us-senate-hands-up-act"
+      }
+    },
+    {
+      "type": "petitions",
+      "id": "justice-for-floyd",
+      "attributes": {
+        "title": "Sign Color of Change’s Petition for George Floyd",
+        "link": "https://act.colorofchange.org/sign/justiceforfloyd_george_floyd_minneapolis/?source=dm_sms_optin_5-26-20"
+      }
+    },
+    {
+      "type": "petitions",
+      "id": "justice-for-mcDade",
+      "attributes": {
+        "title": "Sign the Tallahassee Dream Defenders’ Petition for Tony McDade",
+        "link": "https://secure.everyaction.com/BAMRHpdpAUS8Rle7I00UrA2/"
+      }
+    },
+    {
+      "type": "petitions",
+      "id": "justice-for-mujinga",
+      "attributes": {
+        "title": "Justice for Belly Mujinga",
+        "link": "https://www.change.org/p/govia-thameslink-justice-for-belly-mujinga-justiceforbellymujinga"
+      }
+    },
+    {
+      "type": "petitions",
+      "id": "justice-for-pedro",
+      "attributes": {
+        "title": "Justice for João Pedro",
+        "link": "https://www.change.org/p/prefeitura-do-rio-de-janeiro-justice-for-jo%C4%81o-pedro?signed=true"
+      }
+    },
+    {
+      "type": "petitions",
+      "id": "moveon-petition",
+      "attributes": {
+        "title": "Text “JUSTICE” to 668366 to sign MoveOn’s petition for George Floyd"
+      }
+    },
+    {
+      "type": "petitions",
+      "id": "justice-for-taylor",
+      "attributes": {
+        "title": "Text “ENOUGH” to 55156 or sign this petition to demand justice for Breonna Taylor"
+      }
+    }
+  ]
+}
